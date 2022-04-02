@@ -1,5 +1,5 @@
 # Code Copilot 
-this is a code copolot for vscode 
+this is a code copilot for vscode 
 
 <br>
 

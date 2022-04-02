@@ -16,3 +16,6 @@ press space it might take up to
 # how to launch 
 1. you will need the vscode - insiders 
 2. after opening it in vscode - insiders press 'F5' to start it
+
+<br>
+### need to fix spacing on output

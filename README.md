@@ -7,7 +7,7 @@ this is a code copolot for vscode
 ```
 copilot 'equation' in 'language'
 ```
-<img src="Resources/img1.png">
+<img src="./Resources/img1.png">
 
 <br>
 

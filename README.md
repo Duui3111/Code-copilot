@@ -5,7 +5,7 @@ this is a code copilot for vscode
 
 # how to use 
 ```
-copilot 'equation' in 'language'
+copilot 'equation' in 'language' press space it might take up to 5 seconds to make the code  
 ```
 <img src="./Resources/img1.PNG">
 

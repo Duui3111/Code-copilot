@@ -18,5 +18,6 @@ press space it might take up to
 2. after opening it in vscode - insiders press 'F5' to start it
 
 <br>
-# fixing 
-need to fix spacing on output
+
+# Fixing 
+Need to fix spacing on output

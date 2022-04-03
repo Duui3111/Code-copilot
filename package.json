@@ -2,7 +2,6 @@
   "name": "code-copilot",
   "displayName": "Code Copilot",
   "description": "it is a code complete",
-  "publisher": "duui",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.66.0"

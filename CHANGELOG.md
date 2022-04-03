@@ -6,4 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [0.0.1] - 2022-04-02 
+### Added 
+- copilot.ts witch does makes code 
+- extension.ts witch has impl of the vscode InlineCompletion 
+
